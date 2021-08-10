@@ -3,7 +3,7 @@
 A simple url uploader bot with permenent thumbnail support
 
 ```
-Scrapped some code from @SpEcHIDe's AnyDLBot Repository
+Scrapped some code from @Ho0000s AnyDLBot Repository
 Made with Python3
 ```
 
@@ -11,15 +11,15 @@ Made with Python3
 
 <b>Deploy on Heroku</b>
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/URL-Uploader">
+  <a href="https://heroku.com/deploy?template=https://github.com/khalilThabit/Ty-yotuberbot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
 
 <b>Deploy in your vps</b>
 ```sh
-git clone https://github.com/FayasNoushad/URL-Uploader
-cd URL-Uploader
+git clone https://github.com/khalilThabit/Ty-yotuberbot
+cd Ty-yotuberbot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
 python3 bot.py
@@ -36,13 +36,13 @@ python3 bot.py
 
 ## Accounts
 
-* [Twitter](https://twitter.com/FayasNoushad)
+* [Twitter](https://twitter.com/Y5_M5)
 * [YouTube](https://youtube.com/channel/UCo3BrCslEn8ru34gTXyfVnQ)
-* [GitHub](https://github.com/FayasNoushad)
-* [Telegram](https://telegram.me/FayasNoushad)
+* [GitHub](https://github.com/khalilThabit)
+* [Telegram](https://telegram.me/Y5_M5)
 
 ## Credits
 
-* [Fayas Noushad](https://github.com/FayasNoushad)
+* [Fayas Noushad](https://github.com/khalilThabit)
 * [Shrimadhav UK](https://github.com/SpEcHIDe)
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
