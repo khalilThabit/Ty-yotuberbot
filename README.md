@@ -1,4 +1,4 @@
-# URL-Uploader
+# TY-Yotuberbot
 
 A simple url uploader bot with permenent thumbnail support
 
